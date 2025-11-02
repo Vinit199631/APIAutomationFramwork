@@ -1,4 +1,4 @@
-package com.thetestingacademy.tests.BaseTest;
+package com.thetestingacademy.base;
 
 public class BaseTest {
     // Common To All - reusable
